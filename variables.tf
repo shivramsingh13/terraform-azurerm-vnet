@@ -9,3 +9,7 @@ variables "vnet-name" {
 variables "subnet-name" {
   type = string
 }
+
+variables "location" {
+  type = string
+}
