@@ -1,15 +1,15 @@
-variables "rg-name" {
+variable "rg-name" {
   type = string
 }
 
-variables "vnet-name" {
+variable "vnet-name" {
   type = string
 }
 
-variables "subnet-name" {
+variable "subnet-name" {
   type = string
 }
 
-variables "location" {
+variable "location" {
   type = string
 }
